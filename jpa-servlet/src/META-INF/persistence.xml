@@ -1,0 +1,11 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+  <persistence-unit name="people-unit">
+    <jta-data-source>jdbc/people</jta-data-source>
+    <class>eak.entity.GpsCoordinate</class>
+    <class>eak.entity.Person</class>
+    <properties>
+	<property name="eclipselink.ddl-generation" value="drop-and-create-tables" />
+    </properties>
+  </persistence-unit>
+</persistence>

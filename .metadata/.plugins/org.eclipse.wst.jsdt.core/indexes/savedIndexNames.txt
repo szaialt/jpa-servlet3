@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/anna/Elosztott_alkalmazasok/2014/jpa-servlet3/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1726693203.index
+2445322272.index
+622976240.index
+2565729749.index
+3712663217.index
+989408145.index
